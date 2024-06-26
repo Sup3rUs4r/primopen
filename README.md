@@ -1,5 +1,5 @@
 
-# PrimOpenSource, Primordial CRACK Open Source Cheat
+# PrimOpen, Primordial CRACK Open Source Cheat
 
 ## Original crack from https://github.com/W1lliam1337/primordial-crack
 
