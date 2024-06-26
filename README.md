@@ -15,3 +15,9 @@ This crack has been edited a lot, the UI, theme, hacks, you get the point, and i
 2. Press INSERT to open the cheat's menu (obvious lmao)
 
 3. Have fun :D
+
+## Screenshots
+
+![App menu](https://i.ibb.co/xScMcbz/screen.png)
+
+(More to come)
