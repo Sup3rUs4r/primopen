@@ -21,3 +21,5 @@ This crack has been edited a lot, the UI, theme, hacks, you get the point, and i
 ![App menu](https://i.ibb.co/xScMcbz/screen.png)
 
 (More to come)
+
+Made in vb.net
